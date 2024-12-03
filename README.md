@@ -8,3 +8,5 @@
 - This project offers a modern and responsive credit card user interface design. This design, created using only Flexbox, has been optimized to adapt to different device and screen sizes. It can be integrated or used as a design reference for financial applications or similar projects.
 
 # 🚀 <a href="https://credit-card-ui-design-azure.vercel.app/" target="_blank">Demo</a>
+
+## 📺 [Watch the video on YouTube](https://youtu.be/Ve93DEyCM7Q?si=9kBdNkTY-ZiQiIWr)
